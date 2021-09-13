@@ -4,7 +4,7 @@ slug: xfinity_data_usage
 description: >-
   Fetch Xfinity data usage and serve it via an HTTP endpoint, publish it to MQTT
   or post it to an URL.
-image: 'ronaldheft/xfinity-data-usage:v0.15.4'
+image: 'ronaldheft50/xfinity-data-usage:v0.15.4'
 arch:
   - armhf
   - armv7
