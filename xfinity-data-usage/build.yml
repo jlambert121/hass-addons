@@ -1,0 +1,6 @@
+build_from:
+  armhf: ronaldheft50/xfinity-data-usage:v0.15.5
+  armv7: ronaldheft50/xfinity-data-usage:v0.15.5
+  aarch64: ronaldheft50/xfinity-data-usage:v0.15.5
+  amd64: ronaldheft50/xfinity-data-usage:v0.15.5
+  i386: ronaldheft50/xfinity-data-usage:v0.15.5
